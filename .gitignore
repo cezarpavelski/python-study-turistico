@@ -1,0 +1,17 @@
+venv/
+
+.DS_Store
+
+# Pycache
+*.pyc
+__pycache__
+
+# Env vars
+local.env
+
+# Database
+*.db
+
+# Static and media files
+.static/
+.media/
